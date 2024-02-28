@@ -1,13 +1,19 @@
 <!-- START --->
 👋 Hi, I’m @samdamination
 ---
-### :technologist: About Me :
-- :telescope: prova1
-- :seedling: prova2
-- prova3
+<h2 align="center">
+  👨‍💻 About Me :
+</h2>
+<ul align="center">
+  <li>prova1</li>
+  <li>prova1</li>
+  <li>prova1</li>
+</ul>
 
-### :hammer_and_wrench: Languages :
-<div>
+<h2 align="center">
+  &#128292; Languages :
+</h2>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" title="Racket" alt="Racket" width="40" height="40"/>&nbsp;
@@ -15,9 +21,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samdamination&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdamination&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="center">
+  &#128293; My Stat :
+</h2>
+<!-- STREAK STATS: goto http://github-readme-streak-stats.herokuapp.com/demo/ --->
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=samdamination&theme=dark"       alt="GitHub Streak" /></a>
+</div>
+<!-- TOP LANGUAGE USAGE - NOT DONE 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samdamination&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- GIF --->
